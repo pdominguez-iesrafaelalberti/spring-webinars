@@ -12,6 +12,19 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
+
+| T | Curso | URL| Horas|
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |Content Cell  |Content Cell  |
+| Content Cell  | Content Cell  |Content Cell  |Content Cell  |
+
+
+
+
+
+
+
 ## Header 2
 ### Header 3
 
